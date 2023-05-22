@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'd495942fd2fe8df1fa95b5b65f95935f',
 
   PROVINCE: '涿鹿',
-  CITY: '阳原',
+  CITY: '石家庄',
 
   USERS: [
     {
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	UipBzCcXAcyI7_OelCi9FJJzC7GEhtCAtXlPuynapdk',
+  CALLBACK_TEMPLATE_ID: 'UipBzCcXAcyI7_OelCi9FJJzC7GEhtCAtXlPuynapdk',
 
   CALLBACK_USERS: [
     {
