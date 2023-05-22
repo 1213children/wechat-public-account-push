@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'd495942fd2fe8df1fa95b5b65f95935f',
 
   PROVINCE: '涿鹿',
-  CITY: '石家庄',
+  CITY: '阳原',
 
   USERS: [
     {
@@ -42,7 +42,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2018-09-12' },
+        { keyword: 'love_day', date: '2018-09-13' },
          // 结婚纪念日
 //         { keyword: 'marry_day', date: '2022-09-09' },
       ],
